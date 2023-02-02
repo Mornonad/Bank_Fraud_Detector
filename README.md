@@ -47,7 +47,7 @@
   <summary>Пример сформированной витрины:</summary>
 
 Таблица REP_FRAUD
-![example_fraud](resources/data_mart.png)
+![example_fraud](/resources/data_mart.PNG)
 
 </details>
 
