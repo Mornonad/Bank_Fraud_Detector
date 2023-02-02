@@ -1,0 +1,10 @@
+delete from de11an.mrnv_stg_transactions;
+delete from de11an.mrnv_stg_terminals;
+delete from de11an.mrnv_stg_passport_blacklist;
+delete from de11an.mrnv_stg_cards;
+delete from de11an.mrnv_stg_accounts;
+delete from de11an.mrnv_stg_clients;
+delete from de11an.mrnv_stg_terminals_del;
+delete from de11an.mrnv_stg_cards_del;
+delete from de11an.mrnv_stg_accounts_del;
+delete from de11an.mrnv_stg_clients_del;
