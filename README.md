@@ -12,7 +12,7 @@
   Сведения о картах, счетах и клиентах хранятся в схеме BANK.
 
 ### Структура хранилища.
-<img align="center" height="380" width="500" src="./resources/data_structure.PNG?raw=true" alt="Data store structure" />
+![Data](/resources/data_structure.PNG)
 Ко всем таблицам SCD1 добавлены технические поля create_dt, update_dt. Ко всем таблицам SCD2 добавлены технические поля effective_from, effective_to, deleted_flg.
 
 ### Построение отчета.
@@ -47,7 +47,8 @@
   <summary>Пример сформированной витрины:</summary>
 
 Таблица REP_FRAUD
-![example_fraud](resources/data_mart.png)
+  
+![example_fraud](/resources/data_mart.PNG)
 
 </details>
 
